@@ -1,2 +1,2 @@
 # dataAnalysis
-data analysis with puthon
+data analysis with python
